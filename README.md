@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- HEADER -->
 
-<!--
-**mcaaa9669/mcaaa9669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=190&section=header&text=WELCOME&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+## 📊 GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mcaaa9669&background=FFFFFF&border=FFFFFF&stroke=DCEAF7&ring=9CC7F2&fire=9CC7F2&currStreakNum=111111&sideNums=111111&currStreakLabel=9CC7F2&sideLabels=555555&dates=888888&hide_border=true" width="65%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer" width="100%" />
+</p>
